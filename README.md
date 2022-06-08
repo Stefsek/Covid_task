@@ -13,12 +13,12 @@ produce an automated one-page report (word document) for each country
 
 ## Process:
 
-1. The analysis was focused on how composite measure based on 9 response indicators including school closures, workplace closures, and travel bans(Stringency Index)
+- The analysis was focused on how composite measure based on 9 response indicators including school closures, workplace closures, and travel bans(Stringency Index)
   had an impact in battle against covid 19.
   
-2. Time series was used for the prediction of future covid cases
+- Time series was used for the prediction of future covid cases
 
-3. Automated word report with python's docx
+- Automated word report with python's docx
   
 
 ## Results:

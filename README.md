@@ -1,6 +1,9 @@
 <img title="covid task" alt="covid" width="1000" height="250" src="https://fv9-4.failiem.lv/thumb_show.php?i=kcw6tbqzk&view" />
 
-## Covid 19 Task 
+# Covid 19 Task 
+Submitted by: Sekis Stefanos 
+
+Date: 09/06/2022
 
 ## Introduction:
 

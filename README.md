@@ -42,7 +42,7 @@ for selected country's total cases/population.The script must be in the same fol
 
 <img title="time series" alt="model" width="18" height="18" src="https://cdn-icons-png.flaticon.com/512/6361/6361000.png" />  Model
 
-<img title="word report" alt="word report" width="18" height="18" src="https://appuals.com/wp-content/uploads/2019/01/MS-Word.png" />  Word Automation
+<img title="word report" alt="word report" width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/.docx_icon.svg/1200px-.docx_icon.svg.png" />  Word Automation
 
 <img title="env" alt="virtualenv" width="18" height="18" src="https://cdn.tutsplus.com/cdn-cgi/image/width=300/net/uploads/2013/05/python-power-400.jpg" />  Environment
 

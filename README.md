@@ -42,4 +42,3 @@ The reason china was excluded from the analysis <a href="https://en.wikipedia.or
 
 Covid in africa was less deadly (scatter plot outlier) <a href="https://gdc.unicef.org/resource/coronavirus-africa-five-reasons-why-covid-19-has-been-less-deadly-elsewhere">Link</a>
 
-Word report method <a href="https://peppe8o.com/python-docx-and-raspberry-pi-automating-ms-word-reports-creation-and-sending/">Link</a>

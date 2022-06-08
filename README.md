@@ -8,17 +8,17 @@ Date: 09/06/2022
 ## Introduction:
 
 The goal of this task was to make a covid 19 analysis,train a predictive model to present 
-the situation through the next year(without measures against COVID-19 ) and finally
+the situation through the next year(without measures and vaccinations against COVID-19 ) and finally
 produce an automated one-page report (word document) for each country
 
 ## Process:
 
-- The analysis was focused on how composite measure based on 9 response indicators including school closures, workplace closures, and travel bans(Stringency Index)
+1. The analysis was focused on how composite measure based on 9 response indicators including school closures, workplace closures, and travel bans(Stringency Index)
   had an impact in battle against covid 19.
   
-- Time series was used for the prediction of future covid cases
+2. Time series was used for the prediction of future covid cases
 
-- Word automated report with python's docx
+3. Word automated report with python's docx
   
 
 ## Results:
@@ -31,11 +31,12 @@ Also the seasonality of the data is very bad (key factors are measures taken and
 able to produce some decent results
 
 The one page report was accomplished by creating a script that takes users input (country) and produces a word document containing a table and a graph
-for selected country's total cases/population
+for selected country's total cases/population.The script must be in the same folder with the adjusted dataframe in order to run
 
 ## Repository contents:
 - Analysis
 - Cleaning
+- Data
 - Model
 - Word Automation
 - Environment

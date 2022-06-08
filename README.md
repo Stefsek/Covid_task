@@ -18,7 +18,7 @@ produce an automated one-page report (word document) for each country
   
 2. Time series was used for the prediction of future covid cases
 
-3. Word automated report with python's docx
+3. Automated word report with python's docx
   
 
 ## Results:

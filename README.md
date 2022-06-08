@@ -46,3 +46,4 @@ The reason china was excluded from the analysis <a href="https://en.wikipedia.or
 
 Covid in africa was less deadly (scatter plot outlier) <a href="https://gdc.unicef.org/resource/coronavirus-africa-five-reasons-why-covid-19-has-been-less-deadly-elsewhere">Link</a>
 
+Original dataset [Data on COVID-19 (coronavirus) by Our World in Data](https://covid.ourworldindata.org/data/owid-covid-data.csv)

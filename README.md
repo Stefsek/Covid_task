@@ -1,4 +1,4 @@
-<img title="covid task" alt="covid" width="1000" height="270" src="https://fv9-4.failiem.lv/thumb_show.php?i=kcw6tbqzk&view" />
+<img title="covid task" alt="covid" width="1000" height="200" src="https://fv9-4.failiem.lv/thumb_show.php?i=kcw6tbqzk&view" />
 
 ## Covid 19 Task 
 

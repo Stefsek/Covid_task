@@ -34,12 +34,17 @@ The one page report was accomplished by creating a script that takes users input
 for selected country's total cases/population.The script must be in the same folder with the adjusted dataframe in order to run
 
 ## Repository contents:
-- Analysis
-- Cleaning
-- Data
-- Model
-- Word Automation
-- Environment
+:bar_chart: Analysis
+
+:broom: Cleaning
+
+<img title="data" alt="data" width="18" height="18" src="https://cdn.icon-icons.com/icons2/2566/PNG/512/data_icon_153327.png" />  Data 
+
+<img title="time series" alt="model" width="18" height="18" src="https://cdn-icons-png.flaticon.com/512/6361/6361000.png" />  Model
+
+<img title="word report" alt="word report" width="18" height="18" src="https://appuals.com/wp-content/uploads/2019/01/MS-Word.png" />  Word Automation
+
+<img title="env" alt="virtualenv" width="18" height="18" src="https://cdn.tutsplus.com/cdn-cgi/image/width=300/net/uploads/2013/05/python-power-400.jpg" />  Environment
 
 ## Related links:
 The reason china was excluded from the analysis: <a href="https://en.wikipedia.org/wiki/COVID-19_misinformation_by_China">Link</a>

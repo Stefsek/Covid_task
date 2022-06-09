@@ -28,7 +28,7 @@ an exploration of how countries healthcare systems associated with stricter meas
 
 The predictive model could not make accurate predictions for next years situation as covid is a virus that came into our lives only two years ago.
 Also the seasonality of the data is very bad (key factors are measures taken and omicron variant).However in some hypothetical data prothet model was
-able to produce some decent results(second attempt in the model notebook).Models were tested on total worldwide cases per day
+able to produce some decent results(second attempt in the models notebook).Models were tested on total worldwide cases per day
 
 The one page report was accomplished by creating a script that takes users input (country) and produces a word document containing a table and a graph
 for selected country's total cases/population.The script must be in the same folder with the adjusted dataframe(cases_population) in order to run

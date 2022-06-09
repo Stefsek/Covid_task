@@ -26,11 +26,11 @@ produce an automated one-page report (word document) for each country
 In the analysis folder there are four graphs about average strindency index per year,correlation between strindency_index and cases/deaths and finally
 an exploration of how countries healthcare systems associated with stricter measures
 
-The predictive model could not make accurate predictions for next years situation as covid is a virus that came into our lives only two years ago.
-Also the seasonality of the data is very bad (key factors are measures taken and omicron variant).However in some hypothetical data prothet model was
-able to produce some decent results(second attempt in the models notebook).Models were tested on total worldwide cases per day
+The predictive models could not make accurate predictions for next years situation as covid is a virus that came into our lives only two years ago.
+Also the seasonality of the data is very bad (key factors are measures taken and omicron variant).However in some hypothetical data 
+(2021,not included omicron variant) prothet model was able to produce some decent results which you can see in the second attempt in the models notebook.Models were tested on total worldwide cases per day
 
-The one page report was accomplished by creating a script that takes users input (country) and produces a word document containing a table and a graph
+The one page report was accomplished by creating a script that takes users input (country) and produces a word document containing a table and a bar chart
 for selected country's total cases/population.The script must be in the same folder with the adjusted dataframe(cases_population) in order to run
 
 ## Repository contents:

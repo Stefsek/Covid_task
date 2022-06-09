@@ -40,7 +40,7 @@ for selected country's total cases/population.The script must be in the same fol
 
 <img title="data" alt="data" width="18" height="18" src="https://cdn.icon-icons.com/icons2/2566/PNG/512/data_icon_153327.png" />  Data 
 
-<img title="time series" alt="model" width="18" height="18" src="https://cdn-icons-png.flaticon.com/512/6361/6361000.png" />  Model
+<img title="time series" alt="model" width="18" height="18" src="https://cdn-icons-png.flaticon.com/512/6361/6361000.png" />  Models
 
 <img title="word report" alt="word report" width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/.docx_icon.svg/1200px-.docx_icon.svg.png" />  Word Automation
 

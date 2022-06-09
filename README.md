@@ -31,7 +31,7 @@ Also the seasonality of the data is very bad (key factors are measures taken and
 able to produce some decent results
 
 The one page report was accomplished by creating a script that takes users input (country) and produces a word document containing a table and a graph
-for selected country's total cases/population.The script must be in the same folder with the adjusted dataframe in order to run
+for selected country's total cases/population.The script must be in the same folder with the adjusted dataframe(cases_population) in order to run
 
 ## Repository contents:
 :bar_chart: Analysis

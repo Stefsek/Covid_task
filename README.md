@@ -1,4 +1,4 @@
-<img title="covid task" alt="covid" width="1000" height="250" src="(https://www.universityofcalifornia.edu/sites/default/files/covid-resistance-banner.jpg)" />
+<img title="covid task" alt="covid" width="750" height="250" src="https://www.paho.org/sites/default/files/styles/max_1500x1500/public/2023-08/covid-19-variants.jpg?itok=b63x3Dhp" />
 
 # Covid 19 Task 
 Submitted by: Sekis Stefanos 

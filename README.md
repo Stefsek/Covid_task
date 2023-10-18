@@ -1,4 +1,4 @@
-<img title="covid task" alt="covid" width="1000" height="250" src="https://fv9-4.failiem.lv/thumb_show.php?i=kcw6tbqzk&view" />
+<img title="covid task" alt="covid" width="1000" height="250" src="[https://fv9-4.failiem.lv/thumb_show.php?i=kcw6tbqzk&view](https://www.universityofcalifornia.edu/sites/default/files/covid-resistance-banner.jpg)" />
 
 # Covid 19 Task 
 Submitted by: Sekis Stefanos 
